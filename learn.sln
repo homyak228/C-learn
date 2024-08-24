@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38A2E93F-5DDF-4809-854C-484B36C0A963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A2E93F-5DDF-4809-854C-484B36C0A963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A2E93F-5DDF-4809-854C-484B36C0A963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A2E93F-5DDF-4809-854C-484B36C0A963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.StandardHeader = $1
+		$1.Text = 
+		$1.IncludeInNewFiles = True
+	EndGlobalSection
+EndGlobal
