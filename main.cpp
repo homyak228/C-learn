@@ -2,7 +2,9 @@
 
 int main()
 {
-	std::cout << "Hello world" << '\n';
+	setlocale(LC_ALL, "RU");
+
+	std::cout << "Привет, мир!" << std::endl;
 
 	return 0;
 }
